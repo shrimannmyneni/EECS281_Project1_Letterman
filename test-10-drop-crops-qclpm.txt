@@ -1,0 +1,6 @@
+S
+4
+drop
+prop
+props
+crop

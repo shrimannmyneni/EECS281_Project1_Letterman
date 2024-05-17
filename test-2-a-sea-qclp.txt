@@ -1,0 +1,17 @@
+S
+13
+// Edge case test dictionary
+// Includes short and long words, repeated letters, and similar sounding words
+a
+I
+eye
+bee
+be
+b
+see
+sea
+queue
+cue
+aaaaaaaaaa
+encyclopedia
+pneumonoultramicroscopicsilicovolcanoconiosis
